@@ -2,3 +2,4 @@
 2. Basic Arithmatic Operations
 3. Diameter,Area,circumference of circle
 4. Area Of Triangle
+5. Area Of Equilateral Triangle
