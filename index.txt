@@ -4,4 +4,4 @@
 4. Area Of Triangle
 5. Area Of Equilateral Triangle
 6. Simple Interest
-
+7. Compound Interest
