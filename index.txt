@@ -6,3 +6,4 @@
 6. Simple Interest
 7. Compound Interest
 8. Temperature Conservation From C to F
+9. Calculate Discount
