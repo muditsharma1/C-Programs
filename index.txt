@@ -9,3 +9,4 @@
 9. Calculate Discount
 10. Days Conversion
 11. AM And GM
+12. Number Check
