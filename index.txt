@@ -11,3 +11,6 @@
 11. AM And GM
 12. Number Check
 13. Odd Even Check
+14. Power of A Number
+15. Heron's Formula
+16. Divisibility Test of 5 and 11
