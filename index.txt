@@ -14,3 +14,6 @@
 14. Power of A Number
 15. Heron's Formula
 16. Divisibility Test of 5 and 11
+17. ASCII value
+18. Gross Salary
+19.Multiplication Table
