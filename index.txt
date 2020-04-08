@@ -17,3 +17,6 @@
 17. ASCII value
 18. Gross Salary
 19. Multiplication Table
+20. Using Switch (Week Name)
+21. Using Switch (Vowel Or Consonant)
+22. Sum of n Numbers
