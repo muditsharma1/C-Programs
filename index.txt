@@ -20,3 +20,6 @@
 20. Using Switch (Week Name)
 21. Using Switch (Vowel Or Consonant)
 22. Sum of n Numbers
+23. Swaping Of Two Numbers
+24. Addition Of Two Numbers
+25. Array
