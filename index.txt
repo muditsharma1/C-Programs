@@ -23,3 +23,6 @@
 23. Swaping Of Two Numbers
 24. Addition Of Two Numbers
 25. Array
+26. Array Average
+27. Array Even Odd Count
+28. Array Reversal
