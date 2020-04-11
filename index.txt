@@ -26,3 +26,5 @@
 26. Array Average
 27. Array Even Odd Count
 28. Array Reversal
+29. Maximum Of Three Numbers
+30. Transpose Of Matrices 
