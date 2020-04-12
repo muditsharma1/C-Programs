@@ -28,3 +28,6 @@
 28. Array Reversal
 29. Maximum Of Three Numbers
 30. Transpose Of Matrices 
+31. Addition Of 2-D Array
+32. Subtraction Of 2-D Array
+33. Scalar Multiplier
