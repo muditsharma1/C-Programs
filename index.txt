@@ -31,3 +31,5 @@
 31. Addition Of 2-D Array
 32. Subtraction Of 2-D Array
 33. Scalar Multiplier
+34. Matrices Equal
+35. Sum Using Functions
