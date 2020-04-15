@@ -33,3 +33,5 @@
 33. Scalar Multiplier
 34. Matrices Equal
 35. Sum Using Functions
+36. Square Using Functions
+37. Cube Using Functions
