@@ -37,3 +37,4 @@
 37. Cube Using Functions
 38. Swapping By Call By Reference
 39. Factorial By Recursion
+40. Pattern 1
