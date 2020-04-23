@@ -39,3 +39,4 @@
 39. Factorial By Recursion
 40. Pattern 1
 41. Pattern 2
+42. Pattern 3
