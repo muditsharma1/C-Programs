@@ -42,3 +42,4 @@
 42. Pattern 3
 43. Pattern 4
 44. Leap Year
+45. Armstrong Number
