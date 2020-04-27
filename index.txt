@@ -43,3 +43,4 @@
 43. Pattern 4
 44. Leap Year
 45. Armstrong Number
+46. Palindrome Number
