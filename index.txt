@@ -44,3 +44,4 @@
 44. Leap Year
 45. Armstrong Number
 46. Palindrome Number
+47. Size Of Array
