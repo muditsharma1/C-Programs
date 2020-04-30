@@ -46,3 +46,4 @@
 46. Palindrome Number
 47. Size Of Array
 48. Pattern 5
+49. Strings(Using gets And puts)
