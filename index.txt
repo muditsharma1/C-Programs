@@ -47,3 +47,4 @@
 47. Size Of Array
 48. Pattern 5
 49. Strings(Using gets And puts)
+50. String Copy
