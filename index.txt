@@ -48,3 +48,5 @@
 48. Pattern 5
 49. Strings(Using gets And puts)
 50. String Copy
+51. String Length
+52. String Reverse
