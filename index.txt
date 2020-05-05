@@ -52,3 +52,5 @@
 52. String Reverse
 53. Structure Student
 54. n Random Numbers Using Array
+55. String Concat
+56. String Lwr Upr
