@@ -56,3 +56,4 @@
 56. String Lwr Upr
 57. Fibonacci Series(Using Recursion)
 58. Other Preprocessor
+59. Some Patterns
